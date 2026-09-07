@@ -1,0 +1,11 @@
+{
+  "domain": "battery_manager",
+  "name": "Battery Manager",
+  "codeowners": ["@lyntoo"],
+  "config_flow": true,
+  "dependencies": ["frontend", "http", "websocket_api", "panel_custom"],
+  "documentation": "https://github.com/lyntoo/ha-battery-manager",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "version": "0.1.0"
+}
