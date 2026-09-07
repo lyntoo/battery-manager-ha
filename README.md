@@ -1,3 +1,4 @@
+<img width="1267" height="952" alt="Screenshot from 2026-09-07 09-19-58" src="https://github.com/user-attachments/assets/ea535dc1-9116-43ee-a277-be3a8c357698" />
 # Battery Manager for Home Assistant
 
 A custom Home Assistant integration that automatically detects every battery-powered device in your instance and tracks the exact battery *type* it takes (AA, CR2032, CR123A, etc.) — without creating a single new entity, and without you ever having to type it in by hand.
