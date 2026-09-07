@@ -4,7 +4,8 @@
   "codeowners": ["@lyntoo"],
   "config_flow": true,
   "dependencies": ["frontend", "http", "websocket_api", "panel_custom"],
-  "documentation": "https://github.com/lyntoo/ha-battery-manager",
+  "documentation": "https://github.com/lyntoo/battery-manager-ha",
+  "issue_tracker": "https://github.com/lyntoo/battery-manager-ha/issues",
   "integration_type": "service",
   "iot_class": "calculated",
   "version": "0.1.0"
